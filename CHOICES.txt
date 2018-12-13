@@ -5,3 +5,4 @@ Second Choice: 2
 Third Choice: 1
 Fourth Choice: 3
 Fifth Choice: 2
+Sixth Choice: 1
