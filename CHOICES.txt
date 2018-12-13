@@ -5,6 +5,6 @@ Second Choice: 1
 Third Choice: 3
 Fourth Choice: 2
 Fifth Choice: 2
-Sith Choice: 1
+Sixth Choice: 1
 Seventh Choice: 4
-Eigth Choice: 1
+Eighth Choice: 1
